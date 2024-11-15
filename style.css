@@ -1,3 +1,9 @@
 * {
   box-sizing: border-box;
 }
+.crug {
+  width: 150px;
+  height: 150px;
+  background-color: blueviolet;
+  border-radius: 50%;
+}
